@@ -1,6 +1,6 @@
 # filed_payments
-###### author : Prashant Rana
-###### email: uchiha.rana62@gmail.com
+###### author : SHIV HARI TEWARI
+###### email: tewarishivhari999@gmail.com
 
 Coding exercise:  
 
